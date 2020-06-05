@@ -5,7 +5,7 @@
   but if you have downloaded the Dart SDK separately,
   make sure that the Flutter version of `dart` is listed
   first in your path, as the two versions may not be compatible.
-  The following command (on macOS, linux, and chrome OS),
+  The following command (on macOS, Linux, and Chrome OS),
   tells you whether the `flutter` and `dart` commands
   originate from the same `bin` directory and are therefore
   compatible. (Some versions of Windows
